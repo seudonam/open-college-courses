@@ -89,7 +89,9 @@
 
 - Berkeley [`CS162`](https://inst.eecs.berkeley.edu/~cs162/archives) Operating Systems and Systems Programming📺⭐
 
-- JYY 南京大学 [操作系统](https://jyywiki.cn/)📺
+- 北京大学 [操作系统](https://pku-os.github.io/)
+
+- 南京大学 [操作系统](https://jyywiki.cn/)📺
 
 - 湖科大教书匠 [计算机网络](https://www.icourse163.org/course/HNKJ-1461816178)📺
 
