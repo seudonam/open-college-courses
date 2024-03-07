@@ -83,7 +83,7 @@
 ## 🟤操作系统与网络 Operating System & Network
 - Harvard [`CS161`](https://read.seas.harvard.edu/cs161/) Operating Systems
 
-- MIT [`6.828`](https://pdos.csail.mit.edu/6.828/) Operating System Engineering📺
+- MIT [`6.828`](https://pdos.csail.mit.edu/6.828/2022/) Operating System Engineering📺
 
 - JHU [`CS318`](https://www.cs.jhu.edu/~huang/cs318/fall22/) Principles of Operating Systems
 
