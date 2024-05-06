@@ -171,6 +171,8 @@
 
 - Stanford [`CS231n`](https://github.com/cs231n) Deep Learning for Computer Vision📺
 
+- UMich [`EECS498`](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) Deep Learning for Computer Vision📺
+
 - Stanford [`CS324`](https://stanford-cs324.github.io/winter2023/) Large Language Models
 
 - UPenn [`ESE5140`](https://gnn.seas.upenn.edu/) Graph Neural Networks📺
@@ -182,6 +184,8 @@
 - Stanford [`CS148`](https://cs148.stanford.edu/) Introduction to Computer Graphics and Imaging
 
 - CMU [`15-462`](https://youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) Computer Graphics📺🍭
+
+- Berkeley [`CS184`](https://inst.eecs.berkeley.edu/~cs184/archives) Computer Graphics and Imaging
 
 - UPenn [`CIS565`](https://cis565-fall-2022.github.io/) GPU Programming and Architecture📺
 ## 🟠电气工程 Electrical Engineering
