@@ -11,7 +11,7 @@
 
 - Coursera Computer Science [`1`](https://www.coursera.org/learn/cs-programming-java)+[`2`](https://www.coursera.org/learn/cs-algorithms-theory-machines)📺🍭
 
-- `John DeNero`'s Berkeley [`CS61A`](https://inst.eecs.berkeley.edu/~cs61a/sp20/) Structure and Interpretation of Computer Programs📺🍭
+- `John DeNero`'s Berkeley [`CS61A`](https://cs61a.org/) Structure and Interpretation of Computer Programs📺🍭
 
 - UMich [`EECS280`](https://eecs280.org/archive/) Programming and Intro Data Structures📺
 
@@ -29,7 +29,7 @@
 
 - Stanford [`CS106L`](https://web.stanford.edu/class/cs106l/) Standard C++ Programming
 ## 🔴算法与数据结构 Algorithm & Data Structure
-- `Josh Hug`'s Berkeley [`CS61B`](https://inst.eecs.berkeley.edu/~cs61b/archives) Data Structures📺🍭
+- `Josh Hug`'s Berkeley [`CS61B`](https://sp21.datastructur.es/) Data Structures📺🍭
 
 - Princeton [`COS226`](https://www.cs.princeton.edu/courses/cos226/) Algorithms and Data Structures
 
@@ -61,7 +61,7 @@
 
 - Harvard [`CS61`](https://cs61.seas.harvard.edu/) Systems Programming and Machine Organization
 
-- Berkeley [`CS61C`](https://inst.eecs.berkeley.edu/~cs61c/fa20/) Machine Structures📺🍭
+- Berkeley [`CS61C`](https://cs61c.org/) Machine Structures📺🍭
 
 - CMU [`15-213`](https://www.cs.cmu.edu/~213/) Intro to Computer Systems📺🍭
 
@@ -87,7 +87,7 @@
 
 - JHU [`CS318`](https://www.cs.jhu.edu/~huang/cs318/fall22/) Principles of Operating Systems
 
-- Berkeley [`CS162`](https://inst.eecs.berkeley.edu/~cs162/archives) Operating Systems and Systems Programming📺🍭
+- Berkeley [`CS162`](https://cs162.org/) Operating Systems and Systems Programming📺🍭
 
 - 北京大学 [操作系统](https://pku-os.github.io/)
 
@@ -149,7 +149,7 @@
 ## 🤖人工智能 Artificial Intelligence
 - Berkeley [`CS188`](https://inst.eecs.berkeley.edu/~cs188/archives) Introduction to Artificial Intelligence📺🍭
 
-- Berkeley [`CS189`](https://inst.eecs.berkeley.edu/~cs189/archives) Introduction to Machine Learning📺
+- Berkeley [`CS189`](https://people.eecs.berkeley.edu/~jrs/189/) Introduction to Machine Learning📺
 
 - Berkeley [`CS182`](https://inst.eecs.berkeley.edu/~cs182/sp23/) Deep Neural Networks📺
 
