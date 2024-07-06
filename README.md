@@ -113,7 +113,7 @@
 
 - `Andy Pavlo`'s CMU [`15-721`](https://15721.courses.cs.cmu.edu/spring2023/) Advanced Database Systems📺🍭
 ## 🟢计算机安全 Computer Security
-- Berkeley [`CS161`](https://inst.eecs.berkeley.edu/~cs161/archives) Computer Security
+- Berkeley [`CS161`](https://cs161.org/) Computer Security
 
 - Stanford [`CS155`](https://cs155.stanford.edu/) Computer and Network Security
 
@@ -147,7 +147,7 @@
 
 - CMU [`15-251`](https://www.cs251.com/) Great Ideas in Theoretical Computer Science📺
 ## 🤖人工智能 Artificial Intelligence
-- Berkeley [`CS188`](https://inst.eecs.berkeley.edu/~cs188/archives) Introduction to Artificial Intelligence📺🍭
+- Berkeley [`CS188`](https://inst.eecs.berkeley.edu/~cs188/sp24/) Introduction to Artificial Intelligence📺🍭
 
 - Berkeley [`CS189`](https://people.eecs.berkeley.edu/~jrs/189/) Introduction to Machine Learning📺
 
