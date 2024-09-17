@@ -147,7 +147,7 @@
 
 - CMU [`15-251`](https://www.cs251.com/) Great Ideas in Theoretical Computer Science📺
 ## 🤖人工智能 Artificial Intelligence
-- Berkeley [`CS188`](https://inst.eecs.berkeley.edu/~cs188/sp24/) Introduction to Artificial Intelligence📺🍭
+- Berkeley [`CS188`](https://inst.eecs.berkeley.edu/~cs188/fa24/) Introduction to Artificial Intelligence📺🍭
 
 - Berkeley [`CS189`](https://people.eecs.berkeley.edu/~jrs/189/) Introduction to Machine Learning📺
 
@@ -192,9 +192,5 @@
 - Berkeley [`EECS16A`](https://eecs16a.org/) Designing Information Devices and Systems I📺
 
 - Berkeley [`EECS16B`](https://eecs16b.org/) Designing Information Devices and Systems II
-
-- Berkeley [`EECS151`](https://inst.eecs.berkeley.edu/~eecs151/archives) Introduction to Digital Design and Integrated Circuits📺
-
-- Berkeley [`EE120`](https://inst.eecs.berkeley.edu/~ee120/fa19/) Signals and Systems
 
 - MIT [`6.003`](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) Signals and Systems📺
