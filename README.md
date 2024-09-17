@@ -133,9 +133,7 @@
 
 - Berkeley [`CS70`](https://www.eecs70.org/) Discrete Mathematics and Probability Theory
 
-- Berkeley [`EE126`](https://inst.eecs.berkeley.edu/~ee126/archives) Probability and Random Processes
-
-- Berkeley [`EE127`](https://inst.eecs.berkeley.edu/~ee127/archives) Optimization Models in Engineering📺
+- Berkeley [`EE127`](https://www.youtube.com/playlist?list=PLnocShPlK-Fsj9puVGWJ1byL-WeKW1CMb) Optimization Models in Engineering📺
 
 - MIT [`6.041`](https://ocw.mit.edu/6-041F10) Probabilistic Systems Analysis and Applied Probability📺
 
@@ -151,7 +149,7 @@
 
 - Berkeley [`CS189`](https://people.eecs.berkeley.edu/~jrs/189/) Introduction to Machine Learning📺
 
-- Berkeley [`CS182`](https://inst.eecs.berkeley.edu/~cs182/sp23/) Deep Neural Networks📺
+- Berkeley [`CS182`](https://www.youtube.com/playlist?list=PLnocShPlK-Fs_62EXCDykgtQFbHGLMT7U) Deep Neural Networks📺
 
 - Berkeley [`CS285`](https://rail.eecs.berkeley.edu/deeprlcourse/) Deep Reinforcement Learning📺
 
@@ -184,8 +182,6 @@
 - Stanford [`CS148`](https://cs148.stanford.edu/) Introduction to Computer Graphics and Imaging
 
 - CMU [`15-462`](https://youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) Computer Graphics📺🍭
-
-- Berkeley [`CS184`](https://inst.eecs.berkeley.edu/~cs184/archives) Computer Graphics and Imaging
 
 - UPenn [`CIS565`](https://cis565-fall-2022.github.io/) GPU Programming and Architecture📺
 ## 🟠电气工程 Electrical Engineering
