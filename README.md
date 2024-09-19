@@ -73,10 +73,6 @@
 
 - [`Onur Mutlu`](https://safari.ethz.ch/courses/)'s ETH Zurich Computer Architecture📺
 
-- Berkeley [`CS152`](https://inst.eecs.berkeley.edu/~cs152/sp23/) Computer Architecture and Engineering📺
-
-- Berkeley [`CS164`](https://inst.eecs.berkeley.edu/~cs164/archives) Programming Languages and Compilers
-
 - MIT [`6.826`](https://6826.csail.mit.edu/2020/) Principles of Computer Systems📺
 
 - Cornell [`CS6120`](https://www.cs.cornell.edu/courses/cs6120/2022sp/self-guided/) Advanced Compilers📺
