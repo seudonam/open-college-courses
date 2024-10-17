@@ -142,7 +142,7 @@
 
 - CMU [`15-251`](https://www.cs251.com/) Great Ideas in Theoretical Computer Science📺
 ## 🤖人工智能 Artificial Intelligence
-- Berkeley [`CS188`](https://inst.eecs.berkeley.edu/~cs188/fa24/) Introduction to Artificial Intelligence📺🍭
+- Berkeley [`CS188`](https://inst.eecs.berkeley.edu/~cs188/) Introduction to Artificial Intelligence📺🍭
 
 - Berkeley [`CS189`](https://people.eecs.berkeley.edu/~jrs/189/) Introduction to Machine Learning📺
 
