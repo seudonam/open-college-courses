@@ -1,4 +1,5 @@
 [![](https://socialify.git.ci/seudonam/open-college-courses/image?font=Raleway&forks=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Auto)](https://github.com/seudonam/open-college-courses)
+
 <p align="center">
   <a href="https://github.com/seudonam/open-college-courses/blob/main/LICENSE"><img src="https://img.shields.io/github/license/seudonam/open-college-courses?color=red"></a>
   <a href="https://github.com/seudonam/open-college-courses/commits"><img src="https://img.shields.io/github/last-commit/seudonam/open-college-courses?color=blueviolet"></a>
@@ -91,7 +92,7 @@
 
 - 湖科大教书匠 [计算机网络](https://www.icourse163.org/course/HNKJ-1461816178)📺
 
-- Standford [`CS144`](https://cs144.github.io/) Introduction to Computer Networking
+- Standford [`CS144`](https://github.com/CS144) Introduction to Computer Networking
 ## ⚫分布式系统与并行计算 Distributed System & Parallel Computing
 - MIT [`6.824`](https://pdos.csail.mit.edu/6.824/) Distributed Systems📺🍭
 
