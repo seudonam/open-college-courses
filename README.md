@@ -168,11 +168,13 @@
 
 - Stanford [`CS231n`](https://github.com/cs231n) Deep Learning for Computer Vision📺
 
-- UMich [`EECS498`](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) Deep Learning for Computer Vision📺
-
 - Stanford [`CS324`](https://stanford-cs324.github.io/winter2023/) Large Language Models
 
+- UMich [`EECS498`](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) Deep Learning for Computer Vision📺
+
 - UPenn [`ESE5140`](https://gnn.seas.upenn.edu/) Graph Neural Networks📺
+
+- CMU [`10-714`](https://dlsyscourse.org/lectures/) Deep Learning Systems📺
 
 - CMU [`10-708`](https://sailinglab.github.io/pgm-spring-2019/) Probabilistic Graphical Models📺
 
