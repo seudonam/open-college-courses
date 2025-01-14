@@ -179,6 +179,8 @@
 - CMU [`10-708`](https://sailinglab.github.io/pgm-spring-2019/) Probabilistic Graphical Models📺
 
 - Berkeley [`Data100`](https://ds100.org/sp22/) Principles and Techniques of Data Science📺
+
+- Princeton [`ECE524`](https://sites.google.com/view/cjin/teaching/ece524) Foundations of Reinforcement Learning📺
 ## 🕹计算机图形学 Computer Graphics
 - [`GAMES101`](https://sites.cs.ucsb.edu/~lingqi/teaching/games101) 现代计算机图形学入门
 
